@@ -3,4 +3,6 @@
 
  Repositório criado com sucesso!!!
 
-Alterado diretamente do site!
+ Alterado diretamente do site!
+
+ Alteração pelo VSCode!!
